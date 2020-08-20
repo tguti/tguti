@@ -1,0 +1,84 @@
+theme = "beautifulhugo"
+baseURL = "https://tguti.netlify.app/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+title = "Tomás Gutiérrez"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+enableEmoji = true
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+
+[Params]
+    homeTitle = "Blog"
+    #subtitle = "Alternative subtitle for home page"
+    description = "A personal website about R, RStudio, Rstats and data science."
+    rss = true
+    readingTime = true
+    wordCount = true
+    socialShare = true
+    showRelatedPosts = true
+  
+  
+[Author]
+    name = "Tomás Gutiérrez"
+    github = "tguti"
+    twitter = "tomiguti "
+    linkedin = "tguti"
+
+
+[languages]
+  
+  [languages.en] 
+      languageName = "In English"
+  
+  [languages.es]
+      languageName = "En Español"
+      
+  [[languages.es.menu.main]]
+      name = "Blog"
+      url = "/"
+      weight = 1
+    
+  [[languages.es.menu.main]]
+      name = "Acerca de"
+      url = "page/about/"
+      weight = 3
+      
+  [[languages.es.menu.main]]
+      name = "Tags"
+      url = "tags"
+      weight = 2
+    
+  [[languages.es.menu.main]]
+      name = "Categorías"
+      url = "categories"
+      weight = 2
+    
+    
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+    
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 2
+    
+[[menu.main]]
+    name = "Categories"
+    url = "categories"
+    weight = 2

@@ -1,0 +1,15 @@
+---
+title: El primer post
+author: Tomás Gutiérrez
+date: '2020-08-19'
+slug: first-post
+categories:
+  - primero
+tags:
+  - primero
+type: ''
+subtitle: 'Comenzando ...'
+image: ''
+---
+
+Este es el primer post :)

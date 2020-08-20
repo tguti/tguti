@@ -1,0 +1,13 @@
+---
+title: First post
+author: Tomás Gutiérrez
+date: '2020-08-19'
+slug: first-post
+categories: [first]
+tags: [first]
+type: ''
+subtitle: 'We have to start somewere'
+image: ''
+---
+
+First post ever.
