@@ -10,6 +10,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 enableEmoji = true
+googleAnalytics = "UA-176014263-1"
 
 
 [permalinks]
