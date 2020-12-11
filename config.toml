@@ -46,7 +46,7 @@ enableGitInfo = true
       
   [[languages.es.menu.main]]
       name = "Blog"
-      url = "post/"
+      url = "/"
       weight = 1
     
   [[languages.es.menu.main]]
@@ -67,7 +67,7 @@ enableGitInfo = true
     
 [[menu.main]]
     name = "Blog"
-    url = "post/"
+    url = "/"
     weight = 1
     
 [[menu.main]]
