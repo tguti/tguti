@@ -3,12 +3,11 @@ title: Something very interesting
 author: Tomás Gutiérrez
 date: '2020-12-10'
 slug: something-very-interesting
-categories: []
-tags: []
+categories:
+  - first
+tags:
+  - first
 type: ''
 subtitle: ''
 image: ''
-draft: true
 ---
-
-asiofgapoig
