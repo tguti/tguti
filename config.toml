@@ -11,6 +11,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 enableEmoji = true
 googleAnalytics = "UA-176014263-1"
+enableGitInfo = true
 
 
 [permalinks]
@@ -31,7 +32,7 @@ googleAnalytics = "UA-176014263-1"
 [Author]
     name = "Tomás Gutiérrez"
     github = "tguti"
-    twitter = "tomiguti "
+    twitter = "tomiguti"
     linkedin = "tguti"
 
 
